@@ -43,10 +43,3 @@ Developed collaboratively with a teammate as part of university coursework.
 ## ▶️ How to Run the Game
 1. Use an emulator such as **DOSBox**
 2. Assemble and run the program using an assembler like **NASM*
-3. Run the generated `.EXE` file inside DOSBox
-
----
-
-## 📸 Screenshots
-![Gameplay](screenshots/gameplay.png)  
-![Game Over](screenshots/gameover.png)
